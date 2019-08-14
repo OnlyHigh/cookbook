@@ -15,4 +15,4 @@
 export SBATCH_EXPORT=NONE
 module load python/3.6.5_miniconda-4.5.4
 source activate Misc
-#bwa mem -t 16 ref.fa unpaired.fq > aln-se.sam
+bwa mem -t 16 ref.fa unpaired.fq > aln-se.sam
