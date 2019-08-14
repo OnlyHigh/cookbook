@@ -1,0 +1,31 @@
+Project:
+-----------------------
+Project name          = Sacha_cpDNA_norgalseed_iden95_k39
+Type                  = chloro
+Genome Range          = 100000-200000
+K-mer                 = 39
+Max memory            = 64
+Extended log          = 1
+Save assembled reads  = no
+Seed Input            = /home/svillanu/Experiments/Assemblies/Plastid_extractions/Novoplasty/Seeds/cp_scaffolds.fasta
+Variance detection    = no
+
+Dataset 1:
+-----------------------
+Read Length           = 150
+Insert size           = 370
+Platform              = illumina
+Single/Paired         = PE
+Forward reads         = /shared-dirs/bec-cibiop/Data/Sacha/Raw/Illumina/WGS_DNA_tot_F.fastq
+Reverse reads         = /shared-dirs/bec-cibiop/Data/Sacha/Raw/Illumina/WGS_DNA_tot_R.fastq
+
+Optional:
+-----------------------
+Insert size auto      = yes
+Insert Range          = 1.8
+Insert Range strict   = 1.3
+Use Quality Scores    = no
+
+
+
+
