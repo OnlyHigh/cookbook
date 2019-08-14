@@ -1,2 +1,2 @@
 # Scripts
-Scripts implemented for fasta/genbank parsing, blasting and simple data processing
+Scripts and receipts - Code by: @OnlyHigh, some of taken of modified of code produced by @sivico26 or nidafra92
